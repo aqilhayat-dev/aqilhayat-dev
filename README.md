@@ -1,6 +1,6 @@
 # Hi, I'm Aqeel Abbas 👋
 
-### Software Engineering Student | Full-Stack Web Developer
+### Software Engineering Student | MERN Stack Developer
 
 I'm a Software Engineering student focused on building practical, scalable,
 and user-friendly software solutions. I enjoy turning ideas into real
